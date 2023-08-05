@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "Id": 1,
+      "gender": "male",
+      "name": "John Doe",
+      "contact": "john.doe@example.com",
+      "address": "123 Main St, City",
+      "photoUrl": "https://example.com/john_doe.jpg"
+    },
+    {
+      "Id": 3,
+      "gender": "female",
+      "name": "Jane Smith",
+      "contact": "jane.smith@example.com",
+      "address": "456 Elm St, Town",
+      "photoUrl": "https://example.com/jane_smith.jpg"
+    },
+    {
+      "Id": 4,
+      "gender": "female",
+      "name": "Emily Brown",
+      "contact": "emily@example.com",
+      "address": "321 Elm Rd, Hamlet",
+      "photoUrl": "https://example.com/emily.jpg"
+    },
+    {
+      "Id": 5,
+      "gender": "male",
+      "name": "Mike Johnson",
+      "contact": "mike.johnson@example.com",
+      "address": "789 Oak St, Village",
+      "photoUrl": "https://example.com/mike_johnson.jpg"
+    },
+    {
+      "Id": 6,
+      "gender": "female",
+      "name": "Sophia Wilson",
+      "contact": "sophia@example.com",
+      "address": "987 Pine Lane, County",
+      "photoUrl": "https://example.com/sophia.jpg"
+    },
+    {
+      "Id": 7,
+      "gender": "male",
+      "name": "Alexander Martin",
+      "contact": "alexander@example.com",
+      "address": "654 Maple Ave, Town",
+      "photoUrl": "https://example.com/alexander.jpg"
+    },
+    {
+      "Id": 8,
+      "gender": "female",
+      "name": "Olivia Anderson",
+      "contact": "olivia@example.com",
+      "address": "876 Oak St, Village",
+      "photoUrl": "https://example.com/olivia.jpg"
+    },
+    {
+      "Id": 9,
+      "gender": "male",
+      "name": "James Clark",
+      "contact": "james@example.com",
+      "address": "123 Elm Rd, Hamlet",
+      "photoUrl": "https://example.com/james.jpg"
+    },
+    {
+      "Id": 10,
+      "gender": "female",
+      "name": "Ava Lewis",
+      "contact": "ava@example.com",
+      "address": "321 Birch Blvd, Suburb",
+      "photoUrl": "https://example.com/ava.jpg"
+    },
+    {
+      "Id": 11,
+      "gender": "male",
+      "name": "John Smith",
+      "contact": "johnsmith@example.com",
+      "address": "789 Elm St, Town",
+      "photoUrl": "https://example.com/johnsmith.jpg"
+    }
+  ]
+}
